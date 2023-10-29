@@ -1,0 +1,2 @@
+a="Aravindkumar"
+print(a)
